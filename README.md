@@ -1,6 +1,6 @@
 ItemsVariables
 -
-Minecraft Mod Variable items its a mod adding variable items red items and pink items etc the mod its free adding 40 items
+Minecraft Mod ItemsVariable its a mod adding variable items red items and pink items etc the mod its free adding 40 items
 -
 developers:
 cesar_wazin
@@ -9,7 +9,7 @@ Motor:
 Mcreator
 -
 Creation Time:
-1 day
+2 day
 for minecraft server(forge) and client the mod its for 1.20.1 forge
 -
 Mod:
